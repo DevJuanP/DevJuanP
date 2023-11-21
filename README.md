@@ -14,6 +14,7 @@ Mi objetivo es aplicar mi creatividad y habilidades técnicas en el desarrollo d
 
 ## Contacto
 📧 juanpajueloch@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/juanpajuelo/
 
 ¡Siéntete libre de contactarme para colaboraciones o proyectos interesantes!
