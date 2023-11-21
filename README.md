@@ -1,16 +1,19 @@
-### Hi there 👋
+# ¡Hola! 👋 Soy Juan A. Pajuelo
 
-<!--
-**DevJuanP/DevJuanP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de mí
+👨‍💻 Soy un apasionado desarrollador Full Stack con una formación en ingeniería electrónica. Mi camino en la tecnología inició durante mis estudios, donde descubrí mi pasión por liderar proyectos y ayudar a otros en sus desafíos técnicos.
 
-Here are some ideas to get you started:
+## Objetivo laboral
+Mi objetivo es aplicar mi creatividad y habilidades técnicas en el desarrollo de soluciones innovadoras. Destaco en el desarrollo back-end mientras colaboro en proyectos que impacten positivamente en los usuarios.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiencia y habilidades
+- Lenguajes: JavaScript, HTML, CSS
+- Backend: Node.js, Express.js
+- Frontend: React.js, Redux.js
+- Base de datos: SQL, PostgreSQL, Sequelize.js
+
+## Contacto
+📧 juanpajueloch@gmail.com
+<--!🌐 [Perfil de GitHub](EnlaceAGitHub)-->
+
+¡Siéntete libre de contactarme para colaboraciones o proyectos interesantes!
