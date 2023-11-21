@@ -14,6 +14,5 @@ Mi objetivo es aplicar mi creatividad y habilidades técnicas en el desarrollo d
 
 ## Contacto
 📧 juanpajueloch@gmail.com
-<--!🌐 [Perfil de GitHub](EnlaceAGitHub)-->
 
 ¡Siéntete libre de contactarme para colaboraciones o proyectos interesantes!
