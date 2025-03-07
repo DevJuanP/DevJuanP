@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Juan A. Pajuelo
 
 ## Acerca de mí
-👨‍💻 Soy un apasionado desarrollador Full Stack con una formación en ingeniería electrónica. Mi camino en la tecnología inició durante mis estudios, donde descubrí mi pasión por liderar proyectos y ayudar a otros en sus desafíos técnicos.
+👨‍💻 Soy un desarrollador Full Stack con una formación en ingeniería electrónica. Mi camino en la tecnología inició durante mis estudios, donde descubrí mi pasión por liderar proyectos y ayudar a otros en sus desafíos técnicos.
 
 ## Objetivo laboral
 Mi objetivo es aplicar mi creatividad y habilidades técnicas en el desarrollo de soluciones innovadoras. Destaco en el desarrollo back-end mientras colaboro en proyectos que impacten positivamente en los usuarios.
